@@ -1,4 +1,4 @@
-// 6. WAP in C to find min element in a given array.
+// 6. WAP in C to find minimums element in a given array.
 #include<stdio.h> 
 int main()
 {
